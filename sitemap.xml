@@ -1,0 +1,27 @@
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://www.singularityracing.com/</loc>
+		<lastmod>2018-12-28T10:35:07+00:00</lastmod>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.singularityracing.com/home.html</loc>
+		<lastmod>2018-12-28T10:35:07+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.singularityracing.com/sponsors.html</loc>
+		<lastmod>2018-12-28T10:35:07+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.singularityracing.com/contacts.html</loc>
+		<lastmod>2018-12-28T10:35:07+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.singularityracing.com/about.html</loc>
+		<lastmod>2018-12-28T10:35:07+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+</urlset>
